@@ -1,0 +1,9 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [],
+  "key": {},
+  "result": {
+    "item": ""
+  },
+  "acceptMirrored": false
+}

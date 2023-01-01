@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "item | tag": "",
+      "count | amount": 1
+    }
+  ],
+  "results": [
+    {
+      "item": "",
+      "count": 1,
+      "chance": 1
+    }
+  ]
+}

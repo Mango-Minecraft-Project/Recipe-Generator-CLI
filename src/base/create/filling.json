@@ -1,0 +1,9 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "fluid | fluidTag": "",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item | tag | fluid | fluidTag": "",
+      "count | amount": 1
+    }
+  ],
+  "headRequirement": "superheated | heated"
+}
